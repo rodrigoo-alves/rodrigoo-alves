@@ -56,8 +56,8 @@
 <a href="https://www.linkedin.com/in/rdalvs/" target="blank">
   <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/rdalvs/"/>
 </a>
-<a target="blank">
-  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="alvesrodrigo762@gmail.com">
+<a href="https://rodrigoo-alves-github-io.vercel.app" target="blank">
+  <img align="center" src="https://img.shields.io/badge/Portifolio-8A2BE2" alt="meu portifolio">
 </a>
 </p>
 <br>
